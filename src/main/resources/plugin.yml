@@ -1,0 +1,7 @@
+name: KnockIt
+version: '${version}'
+main: com.shalostx.knockit.KnockIt
+api-version: '1.21'
+authors: [Shalostx]
+description: Plugin for Knock It mini-game
+website: https://t.me/@iamhine
